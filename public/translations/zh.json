@@ -219,7 +219,7 @@
   " Deposit Successful ": "存款成功",
   " Deposit guna Ewallet CEPAT, SENANG, SELAMAT！ ": "使用电子钱包存款，快速、方便、安全！",
   " Setiap kali deposit resit ''Reference/Rujukan'' mesti isi whatsapp nomber anda ": "每次存款时，请务必在收据的「Reference／Rujukan」填写您的 WhatsApp 号码。",
-  "APP": "APP",
+  "APP": "应用程序",
   "❤️ GOOD LUCK! ❤️": "❤️ 祝您好运！❤️",
   " Credit telah tolak daripada wallet anda. Sila refresh website. ": "金额已从您的钱包扣除，请刷新网站。",
   " Sudah BOLEH buat deposit baru, Terima Kasih😊 ": "现在可以再次进行存款了，谢谢您😊",
@@ -232,14 +232,18 @@
   " 🧧 Free RM10 setiap register ": "🧧 每次注册赠送 RM10",
   " Join Telegram ": "加入 Telegram",
   "Withdraw Tidak Berjaya": "提款失败",
-  "  Sila pm livechat dan cuba lagi. TQ Boss!": "请联系在线客服后再试一次，谢谢老板！",
+  " Sila pm livechat dan cuba lagi. TQ Boss!": "请联系在线客服后再试一次，谢谢老板！",
   "Nama Bank Info Salah / Syarikat Bank Account.": "银行资料错误／收款银行账户错误。",
   "Save Credit / Angpao / Free Game / Beli Free Game": "使用了保留分数／红包／免费游戏／购买免费游戏。",
   "Claim Bonus Main Banned Game.": "领取奖金后游玩了禁止游戏。",
   "Turnover / Rollover Belum Capai.": "流水要求尚未完成。",
   "Tercampur Free Credit Lain.": "与其他免费彩金混合使用。",
-  "Withdraw Successful Point cuci berjaya. Baki sudah transfer masuk bank anda. ONG ONG bossku 👍💪": "提款成功，流水已完成，余额已转入您的银行账户。祝老板好运连连！👍💪",
   "🍀 HK8 - Gabungan Game & Keberuntungan! 🍀": "🍀 HK8 - 游戏与幸运的结合！🍀",
   "🔗 Standby Link 🔗": "🔗 备用链接 🔗",
-  "Share QR code anda\n sama kawan-kawan!": "分享您的二维码\n给朋友们吧！"
+  "Credit Tolak ": "余额已扣除",
+  "Withdraw Successful": "提款成功",
+  "Point cuci berjaya. Baki sudah transfer masuk bank anda. ONG ONG bossku 👍💪": "流水已完成，余额已转入您的银行账户。祝老板好运连连！👍💪",
+  "Share QR code anda": "分享您的二维码",
+  "sama kawan-kawan!": "给朋友们吧！"
+
 }
